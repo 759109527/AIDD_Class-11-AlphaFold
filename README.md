@@ -51,12 +51,6 @@
 | 📈 **距离分布直方图** | 结构紧凑度的统计分析 | `5_predicted_distance_distribution.png` |
 | 📉 **逐残基置信度** | 沿序列的预测质量分布 | `6_per_residue_confidence.png` |
 
-<details>
-<summary>📷 查看示例图片</summary>
-
-所有可视化结果都保存为高分辨率PNG图片，并附有详细的解读说明文本文件。
-
-</details>
 
 ---
 
